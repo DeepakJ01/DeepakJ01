@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Jadhavar</h1>
-<h3 align="center">A passionate AI & Data Science enthusiast. </h3>
+<!-- <h3 align="center">A passionate AI & Data Science enthusiast. </h3> -->
 
 - 📫 How to reach me **deepak.jadhavar21@vit.edu**
 
